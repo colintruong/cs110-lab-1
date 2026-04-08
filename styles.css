@@ -1,0 +1,11 @@
+.top-heading {
+  color: rgb(19, 114, 202);
+}
+
+.small-image {
+  max-width: 50px;
+}
+
+.large-image {
+  max-width: 150px;
+}
